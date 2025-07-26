@@ -4,7 +4,6 @@ I’m passionate about Creating things that combine creativity and tech!
 
 - 🎓 Btech Computer Engineering student
 - 💻 I love coding and solving DSA problems
-- 📘 Check out my [LeetCode profile](https://leetcode.com/u/samruddhi011/)
 
 ### 💼 My Projects
 
